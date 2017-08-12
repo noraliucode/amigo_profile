@@ -21,7 +21,7 @@ export default () => {
     `}</style>
     </Head>
   <Hello>
-    Yaaaaa Profile, I am coming
+    Yaaaaa Profile, I am coming, change
   </Hello>
   </div>)
 }
